@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1496202230 source:f:\codeblocks\计算器\worker\实验三\date.cpp
+	"date.h"
+
+1496202174 f:\codeblocks\计算器\worker\实验三\date.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstdio>
+	<ctime>
+
+1559143924 source:f:\codeblocks\计算器\worker\实验三\main.cpp
+	<iostream>
+	"date.h"
+	"Employee.h"
+	"Report.h"
+
+1559144309 source:f:\codeblocks\计算器\worker\实验三\employee.cpp
+	"Employee.h"
+
+1559143324 f:\codeblocks\计算器\worker\实验三\employee.h
+	<string>
+	<map>
+	<iostream>
+	<iomanip>
+	"date.h"
+
+1559143217 source:f:\codeblocks\计算器\worker\实验三\report.cpp
+	"Report.h"
+
+1559141344 f:\codeblocks\计算器\worker\实验三\report.h
+	"Employee.h"
+	<vector>
+	<list>
+	<algorithm>
+
